@@ -1,0 +1,63 @@
+*{
+    background-color: rgb(249, 202, 209);
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+.nav{
+   display: flex;
+}
+h3{
+   padding-top: 150px;
+    margin: 25px;
+  
+}
+button{
+    width: 7%;
+    height: 7%;
+    margin-top: 170px;
+   
+}
+input{
+    height: 20px;
+    margin-top: 170px;
+    margin-left: 20px;
+}
+.description{
+    border: 2px solid black;
+    display: inline-block;
+    display: flex;
+    background-color: pink;
+    font-size: 40px;
+}
+li{
+    display: inline-block;
+    color: black;
+    margin-left: 20px;
+    font-size: 20px;
+}
+.first{
+    border: 2px solid black;
+    display: flex;
+    margin-block-end: 10px;
+    margin-right: 10px;
+}
+.desc{
+    font-size: 20px;
+    padding: 10px;
+    color: rgb(0, 0, 0);
+    display: flex;
+    font-weight: bolder;
+}
+.onekg{
+    border: 2px solid black;
+    padding: 20px;
+}
+.video{
+    display: flex;
+    font-size: 100px;
+}
+.quote{
+    padding-left: 200px;
+}
